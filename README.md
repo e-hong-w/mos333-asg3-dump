@@ -141,7 +141,7 @@ void main()
 
 ---
 
-**@blaco**:hugs:: How's life? Did you check out my [GitHub](https://github.com/e-hong-w/)? :worried:  
+**@blaco**:hugs:: How's life? Did you check out my [GitHub](https://github.com/e-hongw/)? :worried:  
 **@blaco**:hugs:: Drop me an email for other source code!  
 **@blaco**:hugs:: It's not free, but it worths just a price of a lunch. :shallow_pan_of_food:  
 
