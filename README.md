@@ -10,12 +10,12 @@ In my own words,\
 #### Creates 3 processes, 2 writer processes and 1 reader process. For this assignment you should create shared memory location with the size 2 (two) integer variable. One of the writer process will write a dummy temperature value to the first (1st) integer location and the other writer process will write a dummy pressure value to the second (2nd) integer location in the shared memory. The third process should read both value from the shared memory at approximately every 5 seconds.
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) Create your dummy temperature value from the equation value.
-```
+```python
 temperature = LOWER_TEMP_BOUND+(int)(UPPER_TEMP_BOUND*rand()/(RAND_MAX+1.0));
 ** LOWER_TEMP_BOUND= 0 , UPPER_TEMP_BOUND= 100.00
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;b) Create your dummy pressure value from the equation value.
-```
+```python
 pressure= LOWER_PRES_BOUND+(int)(UPPER_PRES_BOUND*rand()/(RAND_MAX+1.0));
 ** LOWER_PRES_BOUND = 150, UPPER_PRES_BOUND= 300.00
 ```
@@ -24,7 +24,7 @@ pressure= LOWER_PRES_BOUND+(int)(UPPER_PRES_BOUND*rand()/(RAND_MAX+1.0));
 ---
 
 #### Reader process
-```
+```python
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h> /*For calling sleep() function.*/
@@ -61,7 +61,7 @@ void main()
 }
 ```
 #### Temperature writer process
-```
+```python
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h> /*For calling sleep() function.*/
@@ -100,7 +100,7 @@ void main()
 }
 ```
 #### Pressure writer process
-```
+```python
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h> /*For calling sleep() function.*/
