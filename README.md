@@ -1,10 +1,16 @@
-# EKT333 Modern Operating System
+# EKT333 Modern Operating System ![GitHub last commit](https://img.shields.io/github/last-commit/ehong-w/mos333-asg3-dump?style=for-the-badge)
 
 In my own words,\
 `Make your life easier in a blink of a Touch n Go scan!`
 
+![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+
 ---
 ### Assignment 3: Inter process Communication – Shared Memory
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg3-dump)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg3-dump)
+![GitHub all releases](https://img.shields.io/github/downloads/ehong-w/mos333-asg3-dump/total)
+
 #### Learning Outcome : Practice Implementation of shared memory in Linux environment
 
 #### Creates 3 processes, 2 writer processes and 1 reader process. For this assignment you should create shared memory location with the size 2 (two) integer variable. One of the writer process will write a dummy temperature value to the first (1st) integer location and the other writer process will write a dummy pressure value to the second (2nd) integer location in the shared memory. The third process should read both value from the shared memory at approximately every 5 seconds.
@@ -141,15 +147,15 @@ void main()
 
 ---
 
-**@blaco**:hugs:: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? :worried:  
-**@blaco**:hugs:: Drop me an email for other source code!  
-**@blaco**:hugs:: It's not free, but it worths just a price of a lunch. :shallow_pan_of_food:  
+**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟
+**@blaco**🐏: Drop me an email for other source code!
+**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗
 
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
 </p>
 
-- Leave me a message:question:
-  - :beer: [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
-  - :basket: [Linkedin](https://www.linkedin.com/in/ehong-w/)
-  - :snowman: [Whatsapp]()
+## 🧸 **Leave me a message?**
+- 🍺 [E-mail](mailto:ehong.w@gmail.com?subject=[GitHub]%20Problem%20Description)
+- 🧺 [Linkedin](https://www.linkedin.com/in/ehong-w/)
+- ⛄ [Whatsapp]()
