@@ -8,7 +8,7 @@ In my own words,\
 ---
 ### Assignment 3: Inter process Communication – Shared Memory
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg3-dump)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg3-dump)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg3-dumps)
 ![GitHub all releases](https://img.shields.io/github/downloads/ehong-w/mos333-asg3-dump/total)
 
 #### Learning Outcome : Practice Implementation of shared memory in Linux environment
