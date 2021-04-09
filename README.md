@@ -147,8 +147,8 @@ void main()
 
 ---
 
-**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟
-**@blaco**🐏: Drop me an email for other source code!
+**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟  
+**@blaco**🐏: Drop me an email for other source code!  
 **@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗  
 
 <p>
