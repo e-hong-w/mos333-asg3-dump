@@ -149,7 +149,7 @@ void main()
 
 **@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟
 **@blaco**🐏: Drop me an email for other source code!
-**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗
+**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗  
 
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
