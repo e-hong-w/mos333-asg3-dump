@@ -6,7 +6,7 @@ In my own words,\
 ![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 
 ---
-### Assignment 3: Inter process Communication – Shared Memory
+### Assignment 3: Inter process Communication – Shared Memory ![](https://img.shields.io/badge/score-20%2F20-brightgreen)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ehong-w/mos333-asg3-dump)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ehong-w/mos333-asg3-dump)
 ![GitHub all releases](https://img.shields.io/github/downloads/ehong-w/mos333-asg3-dump/total)
@@ -147,9 +147,9 @@ void main()
 
 ---
 
-**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟  
-**@blaco**🐏: Drop me an email for other source code!  
-**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗  
+**@blaco**🐏: How's life? Did you check out my [GitHub](https://github.com/ehong-w/)? 😟\
+**@blaco**🐏: Drop me an email for other source code!\
+**@blaco**🐏: It's not free, but it worths just a price of a lunch. 🥗\
 
 <p>
   <img width="512" src="https://user-images.githubusercontent.com/68590570/113911631-c52ca900-980c-11eb-8946-19ce84f84c40.png">
